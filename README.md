@@ -18,11 +18,11 @@ This is a solution to the [Contact form challenge on Frontend Mentor](https://ww
 
 ### Screenshot
 
-![image](https://github.com/LoneBrokeBoy/QR-code-component/assets/91601992/a64a53a6-f405-49e7-9b4a-9949268254ee)
+![image](https://github.com/TwinkleByte/QR-code-component/assets/91601992/a64a53a6-f405-49e7-9b4a-9949268254ee)
 
 ### Links
 
-- Solution URL: [Solution](https://github.com/LoneBrokeBoy/QR-code-component)
+- Solution URL: [Solution](https://github.com/TwinkleByte/QR-code-component)
 - Live Site URL: [Live site URL](https://lonebrokeboy.github.io/QR-code-component/)
 
 ## My process
@@ -61,5 +61,5 @@ To see how you can add code snippets, see below:
 ```
 ## Author
 
-- Frontend Mentor - [@LoneBrokeBoy](https://www.frontendmentor.io/profile/LoneBrokeBoy)
-- Github - [@LoneBrokeBoy](https://github.com/LoneBrokeBoy)
+- Frontend Mentor - [@TwinkleByte](https://www.frontendmentor.io/profile/TwinkleByte)
+- Github - [@TwinkleByte](https://github.com/TwinkleByte)
