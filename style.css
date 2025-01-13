@@ -1,0 +1,78 @@
+:root {
+    --bg-1: hsl(212, 45%, 89%);
+    --bg-2: hsl(0, 0%, 100%);
+    --title-text: hsl(218, 44%, 22%);
+    --subtitle-text: hsl(220, 15%, 55%);
+}
+
+* {
+  font-size: 15px;
+}
+
+body {
+  background-color: var(--bg-1);
+  font-family: Outfit;
+  display: grid;
+  margin: 0;
+  height: 100vh;
+}
+
+p {
+  margin: 0;
+  padding: 0;
+}
+
+.content {
+  grid-area: content;
+}
+
+.container {
+  background-color: var(--bg-2);
+  display: block;
+  border-radius: 0.8rem;
+  margin: auto;
+  margin-top: 12rem;
+  width: max-content;
+  height: 33.333rem;
+  box-shadow: 0rem 1rem 1rem 2px rgba(0, 0, 0, 0.15);
+}
+
+.image-qr-code {
+  margin: 1.333rem 1.333rem 1.333rem 1.333rem;
+  vertical-align: middle;
+  border-radius: 0.8rem;
+  width: 20rem;
+}
+
+.title {
+  color: var(--title-text);
+  width: 16.667rem;
+  font-size: 1.33rem;
+  margin: auto;
+  vertical-align: middle;
+  text-align: center;
+  font-weight: 700;
+  margin-bottom: 1.333rem;
+}
+
+.subtitle {
+  color: var(--subtitle-text);
+  width: 16.667rem;
+  font-size: 1rem;
+  margin: auto;
+  text-align: center;
+  vertical-align: middle;
+  font-weight: 400;
+}
+
+@media (max-width: 30.333rem) {
+  * {
+      font-size: 0.867rem;
+  }
+}
+
+@media (max-width: 20rem) {
+  * {
+      font-size: 0.733rem;
+  }
+}
