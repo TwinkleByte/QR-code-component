@@ -23,7 +23,7 @@ This is a solution to the [Contact form challenge on Frontend Mentor](https://ww
 ### Links
 
 - Solution URL: [Solution](https://github.com/TwinkleByte/QR-code-component)
-- Live Site URL: [Live site URL](https://lonebrokeboy.github.io/QR-code-component/)
+- Live Site URL: [Live site URL](https://twinklebyte.github.io/QR-code-component/)
 
 ## My process
 
